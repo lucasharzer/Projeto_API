@@ -23,6 +23,4 @@ python app.py
 </span>
 
 
-<span align="center">
-  <img src="https://user-images.githubusercontent.com/85804895/133950622-d2744305-e3d7-45e0-92ca-6084a2257da8.png">
-</span>
+
