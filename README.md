@@ -10,6 +10,12 @@ python setup.py develop
 python app.py
 ```
 
+# Browser URL
+
+```bash
+localhost:8080
+```
+
 # Result
 
 
