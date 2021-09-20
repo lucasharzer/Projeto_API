@@ -24,5 +24,5 @@ python app.py
 
 
 <span align="center">
-  <img src="https://user-images.githubusercontent.com/85804895/133950550-e6585c08-eb9f-4a28-85ec-4341cf1e9dbc.png">
+  <img src="https://user-images.githubusercontent.com/85804895/133950622-d2744305-e3d7-45e0-92ca-6084a2257da8.png">
 </span>
