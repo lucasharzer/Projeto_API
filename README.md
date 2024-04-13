@@ -1,23 +1,20 @@
-# Preparing
+# API de heróis com python
 
+# Comandos
+
+- Consigurando o ambiente 
 ```bash
 python setup.py develop
 ```
 
-# To Run
-
+- Executar programa
 ```bash
 python app.py
 ```
 
-# Browser URL
+URL = localhost:8080
 
-```bash
-localhost:8080
-```
-
-# Result
-
+# Resultados
 
 <span align="center">
   <img src="https://user-images.githubusercontent.com/85804895/132970874-71641fbc-efb9-4011-84c1-bc2e6f7c198b.png">
